@@ -1,0 +1,32 @@
+footer{
+    background: var(--color-primary);
+    padding: 1rem 0 0 0;
+    color: var(--color-white);
+    text-align: center;
+    margin: 3rem auto 0;
+}
+footer a{
+    color: var(--color-bg);
+}
+.uselinks{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 2rem auto 2rem;
+}
+
+.footer_socials{
+    display:flex ;
+    justify-content: center;
+    gap: 1rem;
+margin: 0 auto 3rem;
+
+}
+.footer_socials a{
+    color: var(--color-bg);
+}
+
+.copy_right{
+    margin-top: 4rem;
+}
